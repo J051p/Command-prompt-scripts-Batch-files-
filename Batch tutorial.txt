@@ -1,0 +1,17 @@
+Some basic commands of batch file
+
+echo – Prints out the input string. It can be ON or OFF, for ECHO to turn the echoing feature on or off. If ECHO is ON, the command prompt will display the command it is executing.
+cls – Clears the command prompt screen.
+title: Changes the title text displayed on top of prompt window.
+EXIT – To exit the Command Prompt.
+pause – Used to stop the execution of Windows batch file.
+:: – Add a comment in the batch file.
+COPY – Copy a file or files
+
+Types of “batch” files in windows
+
+INI (*.ini) – Initialization file. These set the default variables for the system and programs.
+CFG (*.cfg) – These are the configuration files.
+SYS (*.sys) – System files, can sometimes be edited, mostly compiled machine code in new versions.
+COM (*.com) – Command files. These are the executable files for all the DOS commands. In early versions there was a separate file for each command. Now, most are inside COMMAND.COM.
+CDM (*.cmd) – These were the batch files used in NT operating systems.
